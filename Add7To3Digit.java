@@ -2,7 +2,6 @@
 public class Add7To3Digit {
 
 	public static void main(String[] args) {
-	
 		/*
 		 * 1
 		 * 1 0
@@ -29,8 +28,7 @@ public class Add7To3Digit {
 		}
 		
 		
-		
-		
+
 	}
 
 }
